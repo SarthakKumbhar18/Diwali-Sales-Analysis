@@ -18,7 +18,7 @@ The dataset contains:
 - **Purchase Data**: Number of purchases, Total Sales.
 
 ## 🛠️ Technologies Used
-- **Python** 🐍
-- **Pandas** 📊
-- **Matplotlib & Seaborn** 📈
+- **Python** 
+- **Pandas** 
+- **Matplotlib & Seaborn** 
 
